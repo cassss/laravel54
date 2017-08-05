@@ -361,6 +361,7 @@ class ComposerStaticInitae4f35ff40f5842a5520a5a4cc407389
         'Carbon\\CarbonInterval' => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon/CarbonInterval.php',
         'Carbon\\Exceptions\\InvalidDateException' => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon/Exceptions/InvalidDateException.php',
         'CreateCommentsTable' => __DIR__ . '/../..' . '/database/migrations/2017_07_12_200907_create_comments_table.php',
+        'CreateFansTable' => __DIR__ . '/../..' . '/database/migrations/2017_08_05_161454_create_fans_table.php',
         'CreatePasswordResetsTable' => __DIR__ . '/../..' . '/database/migrations/2014_10_12_100000_create_password_resets_table.php',
         'CreatePostsTable' => __DIR__ . '/../..' . '/database/migrations/2017_06_18_114444_create_posts_table.php',
         'CreateUsersTable' => __DIR__ . '/../..' . '/database/migrations/2014_10_12_000000_create_users_table.php',

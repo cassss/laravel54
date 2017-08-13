@@ -57,6 +57,5 @@ Route::get('/posts/{post}/unzan', '\App\Http\Controllers\PostController@unzan');
 
 //个人中心
 Route::get('/user/{user}', '\App\Http\Controllers\UserController@show');
-//
 Route::get('/user/{user}/fan', '\App\Http\Controllers\UserController@fan');
 Route::get('/user/{user}/unfan', '\App\Http\Controllers\UserController@unfan');
